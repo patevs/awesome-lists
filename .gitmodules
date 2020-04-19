@@ -19,3 +19,6 @@
 [submodule "awesome-pentest"]
 	path = awesome-pentest
 	url = https://github.com/enaqx/awesome-pentest
+[submodule "awesome-git"]
+	path = awesome-git
+	url = https://github.com/dictcp/awesome-git
