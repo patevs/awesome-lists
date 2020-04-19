@@ -1,0 +1,14 @@
+{
+  "name": "awesome-lists",
+  "version": "0.0.0",
+  "description": "Awesome Lists and Resources",
+  "author": "PatEvs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patevs/awesome-lists.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
