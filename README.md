@@ -25,4 +25,8 @@
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
 - [awesome-windows](https://github.com/Awesome-Windows/Awesome)
 
+[](.)
+
+- [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
+
 ---
