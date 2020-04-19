@@ -43,3 +43,6 @@
 [submodule "awesome-npm"]
 	path = awesome-npm
 	url = https://github.com/sindresorhus/awesome-npm
+[submodule "awesome-stock-resources"]
+	path = awesome-stock-resources
+	url = https://github.com/neutraltone/awesome-stock-resources
