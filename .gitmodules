@@ -22,3 +22,6 @@
 [submodule "awesome-git"]
 	path = awesome-git
 	url = https://github.com/dictcp/awesome-git
+[submodule "awesome-command-line-apps"]
+	path = awesome-command-line-apps
+	url = https://github.com/herrbischoff/awesome-command-line-apps
