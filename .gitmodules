@@ -58,3 +58,6 @@
 [submodule "Awesome-Hacking"]
 	path = Awesome-Hacking
 	url = https://github.com/Hack-with-Github/Awesome-Hacking
+[submodule "awesome-micro-npm-packages"]
+	path = awesome-micro-npm-packages
+	url = https://github.com/parro-it/awesome-micro-npm-packages
