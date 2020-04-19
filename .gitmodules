@@ -61,3 +61,6 @@
 [submodule "awesome-micro-npm-packages"]
 	path = awesome-micro-npm-packages
 	url = https://github.com/parro-it/awesome-micro-npm-packages
+[submodule "awesome-checker-services"]
+	path = awesome-checker-services
+	url = https://github.com/Brunty/awesome-checker-services
