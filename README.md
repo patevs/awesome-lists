@@ -23,11 +23,12 @@
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
-- [awesome-windows](https://github.com/Awesome-Windows/Awesome)
+- [`awesome-windows`](https://github.com/Awesome-Windows/Awesome)
 
 [](.)
 
 - [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
 - [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
+- [`javascript-development-environment`](https://github.com/coryhouse/javascript-development-environment)
 
 ---
