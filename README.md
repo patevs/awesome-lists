@@ -28,5 +28,6 @@
 [](.)
 
 - [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
+- [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
 
 ---
