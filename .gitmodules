@@ -16,3 +16,6 @@
 [submodule "awesome-cli-apps"]
 	path = awesome-cli-apps
 	url = https://github.com/agarrharr/awesome-cli-apps
+[submodule "awesome-pentest"]
+	path = awesome-pentest
+	url = https://github.com/enaqx/awesome-pentest
