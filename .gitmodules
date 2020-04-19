@@ -52,3 +52,6 @@
 [submodule "awesome-npm-scripts"]
 	path = awesome-npm-scripts
 	url = https://github.com/RyanZim/awesome-npm-scripts
+[submodule "awesome-seo"]
+	path = awesome-seo
+	url = https://github.com/teles/awesome-seo
