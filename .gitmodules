@@ -31,3 +31,6 @@
 [submodule "awesome-devenv"]
 	path = awesome-devenv
 	url = https://github.com/jondot/awesome-devenv
+[submodule "Awesome-Design-Tools"]
+	path = Awesome-Design-Tools
+	url = https://github.com/LisaDziuba/Awesome-Design-Tools
