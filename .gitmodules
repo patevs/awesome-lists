@@ -37,3 +37,6 @@
 [submodule "awesome-react-native"]
 	path = awesome-react-native
 	url = https://github.com/jondot/awesome-react-native
+[submodule "awesome-piracy"]
+	path = awesome-piracy
+	url = https://github.com/Igglybuff/awesome-piracy
