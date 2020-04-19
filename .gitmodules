@@ -55,3 +55,6 @@
 [submodule "awesome-seo"]
 	path = awesome-seo
 	url = https://github.com/teles/awesome-seo
+[submodule "Awesome-Hacking"]
+	path = Awesome-Hacking
+	url = https://github.com/Hack-with-Github/Awesome-Hacking
