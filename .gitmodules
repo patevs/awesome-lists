@@ -7,3 +7,6 @@
 	url = https://github.com/enaqx/awesome-react
 
 # EOF #
+[submodule "awesome-lists"]
+	path = awesome-lists
+	url = https://github.com/sindresorhus/awesome
