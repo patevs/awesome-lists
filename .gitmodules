@@ -28,3 +28,6 @@
 [submodule "awesome-console-services"]
 	path = awesome-console-services
 	url = https://github.com/chubin/awesome-console-services
+[submodule "awesome-devenv"]
+	path = awesome-devenv
+	url = https://github.com/jondot/awesome-devenv
