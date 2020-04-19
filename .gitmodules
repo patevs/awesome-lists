@@ -34,3 +34,6 @@
 [submodule "Awesome-Design-Tools"]
 	path = Awesome-Design-Tools
 	url = https://github.com/LisaDziuba/Awesome-Design-Tools
+[submodule "awesome-react-native"]
+	path = awesome-react-native
+	url = https://github.com/jondot/awesome-react-native
