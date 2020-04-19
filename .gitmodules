@@ -1,3 +1,9 @@
+# ----------- #
+# .gitmodules #
+# ----------- #
+
 [submodule "awesome-react"]
 	path = awesome-react
 	url = https://github.com/enaqx/awesome-react
+
+# EOF #
