@@ -40,3 +40,6 @@
 [submodule "awesome-piracy"]
 	path = awesome-piracy
 	url = https://github.com/Igglybuff/awesome-piracy
+[submodule "awesome-npm"]
+	path = awesome-npm
+	url = https://github.com/sindresorhus/awesome-npm
