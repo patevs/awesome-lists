@@ -49,3 +49,6 @@
 [submodule "awesome-unity"]
 	path = awesome-unity
 	url = https://github.com/RyanNielson/awesome-unity
+[submodule "awesome-npm-scripts"]
+	path = awesome-npm-scripts
+	url = https://github.com/RyanZim/awesome-npm-scripts
