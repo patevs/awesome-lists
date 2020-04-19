@@ -2,65 +2,65 @@
 # .gitmodules #
 # ----------- #
 
-[submodule "awesome-react"]
-	path = awesome-react
-	url = https://github.com/enaqx/awesome-react
-
-# EOF #
-[submodule "awesome-lists"]
-	path = awesome-lists
-	url = https://github.com/sindresorhus/awesome
-[submodule "awesome-windows"]
-	path = awesome-windows
-	url = https://github.com/Awesome-Windows/Awesome
+[submodule "awesome-checker-services"]
+	path = awesome-checker-services
+	url = https://github.com/Brunty/awesome-checker-services
 [submodule "awesome-cli-apps"]
 	path = awesome-cli-apps
 	url = https://github.com/agarrharr/awesome-cli-apps
-[submodule "awesome-pentest"]
-	path = awesome-pentest
-	url = https://github.com/enaqx/awesome-pentest
-[submodule "awesome-git"]
-	path = awesome-git
-	url = https://github.com/dictcp/awesome-git
 [submodule "awesome-command-line-apps"]
 	path = awesome-command-line-apps
 	url = https://github.com/herrbischoff/awesome-command-line-apps
 [submodule "awesome-console-services"]
 	path = awesome-console-services
 	url = https://github.com/chubin/awesome-console-services
-[submodule "awesome-devenv"]
-	path = awesome-devenv
-	url = https://github.com/jondot/awesome-devenv
 [submodule "Awesome-Design-Tools"]
 	path = Awesome-Design-Tools
 	url = https://github.com/LisaDziuba/Awesome-Design-Tools
-[submodule "awesome-react-native"]
-	path = awesome-react-native
-	url = https://github.com/jondot/awesome-react-native
-[submodule "awesome-piracy"]
-	path = awesome-piracy
-	url = https://github.com/Igglybuff/awesome-piracy
+[submodule "awesome-devenv"]
+	path = awesome-devenv
+	url = https://github.com/jondot/awesome-devenv
+[submodule "awesome-git"]
+	path = awesome-git
+	url = https://github.com/dictcp/awesome-git
+[submodule "Awesome-Hacking"]
+	path = Awesome-Hacking
+	url = https://github.com/Hack-with-Github/Awesome-Hacking
+[submodule "awesome-lists"]
+	path = awesome-lists
+	url = https://github.com/sindresorhus/awesome
+[submodule "awesome-micro-npm-packages"]
+	path = awesome-micro-npm-packages
+	url = https://github.com/parro-it/awesome-micro-npm-packages
 [submodule "awesome-npm"]
 	path = awesome-npm
 	url = https://github.com/sindresorhus/awesome-npm
+[submodule "awesome-npm-scripts"]
+	path = awesome-npm-scripts
+	url = https://github.com/RyanZim/awesome-npm-scripts
+[submodule "awesome-pentest"]
+	path = awesome-pentest
+	url = https://github.com/enaqx/awesome-pentest
+[submodule "awesome-piracy"]
+	path = awesome-piracy
+	url = https://github.com/Igglybuff/awesome-piracy
+[submodule "awesome-react"]
+	path = awesome-react
+	url = https://github.com/enaqx/awesome-react
+[submodule "awesome-react-native"]
+	path = awesome-react-native
+	url = https://github.com/jondot/awesome-react-native
+[submodule "awesome-seo"]
+	path = awesome-seo
+	url = https://github.com/teles/awesome-seo
 [submodule "awesome-stock-resources"]
 	path = awesome-stock-resources
 	url = https://github.com/neutraltone/awesome-stock-resources
 [submodule "awesome-unity"]
 	path = awesome-unity
 	url = https://github.com/RyanNielson/awesome-unity
-[submodule "awesome-npm-scripts"]
-	path = awesome-npm-scripts
-	url = https://github.com/RyanZim/awesome-npm-scripts
-[submodule "awesome-seo"]
-	path = awesome-seo
-	url = https://github.com/teles/awesome-seo
-[submodule "Awesome-Hacking"]
-	path = Awesome-Hacking
-	url = https://github.com/Hack-with-Github/Awesome-Hacking
-[submodule "awesome-micro-npm-packages"]
-	path = awesome-micro-npm-packages
-	url = https://github.com/parro-it/awesome-micro-npm-packages
-[submodule "awesome-checker-services"]
-	path = awesome-checker-services
-	url = https://github.com/Brunty/awesome-checker-services
+[submodule "awesome-windows"]
+	path = awesome-windows
+	url = https://github.com/Awesome-Windows/Awesome
+
+# EOF #
