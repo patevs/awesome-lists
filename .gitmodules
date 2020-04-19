@@ -46,3 +46,6 @@
 [submodule "awesome-stock-resources"]
 	path = awesome-stock-resources
 	url = https://github.com/neutraltone/awesome-stock-resources
+[submodule "awesome-unity"]
+	path = awesome-unity
+	url = https://github.com/RyanNielson/awesome-unity
