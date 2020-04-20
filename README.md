@@ -38,5 +38,7 @@
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x)
 - [`javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms)
 - [`lists`](https://github.com/jnv/lists)
+- [`public-apis`](https://github.com/public-apis/public-apis)
+- [`cosmos`](https://github.com/OpenGenus/cosmos)
 
 ---
