@@ -40,5 +40,6 @@
 - [`lists`](https://github.com/jnv/lists)
 - [`public-apis`](https://github.com/public-apis/public-apis)
 - [`cosmos`](https://github.com/OpenGenus/cosmos)
+- [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books)
 
 ---
