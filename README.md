@@ -37,5 +37,6 @@
 - [`developer-roadmap`](https://github.com/kamranahmedse/developer-roadmap)
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x)
 - [`javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms)
+- [`lists`](https://github.com/jnv/lists)
 
 ---
