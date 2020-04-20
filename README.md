@@ -42,5 +42,8 @@
 - [`cosmos`](https://github.com/OpenGenus/cosmos)
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books)
 - [`tech-interview-handbook`](https://github.com/yangshun/tech-interview-handbook)
+- [`Front-End-Checklist`](https://github.com/thedaviddias/Front-End-Checklist)
+- [`js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch)
+- [`pure-bash-bible`](https://github.com/dylanaraps/pure-bash-bible)
 
 ---
