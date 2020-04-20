@@ -35,5 +35,7 @@
 - [`Resources-for-Beginner-Bug-Bounty-Hunters`](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 - [`coding-interview-university`](https://github.com/jwasham/coding-interview-university)
 - [`developer-roadmap`](https://github.com/kamranahmedse/developer-roadmap)
+- [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x)
+- [`javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms)
 
 ---
