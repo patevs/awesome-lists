@@ -31,5 +31,6 @@
 - [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
 - [`javascript-development-environment`](https://github.com/coryhouse/javascript-development-environment)
 - [`system-design-primer`](https://github.com/donnemartin/system-design-primer)
+- [`learn-regex`](https://github.com/ziishaned/learn-regex)
 
 ---
