@@ -41,5 +41,6 @@
 - [`public-apis`](https://github.com/public-apis/public-apis)
 - [`cosmos`](https://github.com/OpenGenus/cosmos)
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books)
+- [`tech-interview-handbook`](https://github.com/yangshun/tech-interview-handbook)
 
 ---
