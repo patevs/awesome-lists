@@ -45,5 +45,7 @@
 - [`Front-End-Checklist`](https://github.com/thedaviddias/Front-End-Checklist)
 - [`js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch)
 - [`pure-bash-bible`](https://github.com/dylanaraps/pure-bash-bible)
+- [`Front-End-Performance-Checklist`](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [`hacker-roadmap`](https://github.com/sundowndev/hacker-roadmap)
 
 ---
