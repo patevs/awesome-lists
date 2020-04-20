@@ -32,5 +32,8 @@
 - [`javascript-development-environment`](https://github.com/coryhouse/javascript-development-environment)
 - [`system-design-primer`](https://github.com/donnemartin/system-design-primer)
 - [`learn-regex`](https://github.com/ziishaned/learn-regex)
+- [`Resources-for-Beginner-Bug-Bounty-Hunters`](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [`coding-interview-university`](https://github.com/jwasham/coding-interview-university)
+- [`developer-roadmap`](https://github.com/kamranahmedse/developer-roadmap)
 
 ---
