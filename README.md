@@ -47,5 +47,7 @@
 - [`pure-bash-bible`](https://github.com/dylanaraps/pure-bash-bible)
 - [`Front-End-Performance-Checklist`](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [`hacker-roadmap`](https://github.com/sundowndev/hacker-roadmap)
+- [`HEAD`](https://github.com/joshbuchea/HEAD)
+- [`solved-by-flexbox`](https://github.com/philipwalton/solved-by-flexbox)
 
 ---
