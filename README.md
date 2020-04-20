@@ -30,5 +30,6 @@
 - [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
 - [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
 - [`javascript-development-environment`](https://github.com/coryhouse/javascript-development-environment)
+- [`system-design-primer`](https://github.com/donnemartin/system-design-primer)
 
 ---
