@@ -24,6 +24,7 @@
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
 - [`awesome-windows`](https://github.com/Awesome-Windows/Awesome)
+- [`awesome-wsl`](https://github.com/sirredbeard/Awesome-WSL)
 
 [](.)
 
