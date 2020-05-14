@@ -50,5 +50,6 @@
 - [`hacker-roadmap`](https://github.com/sundowndev/hacker-roadmap)
 - [`HEAD`](https://github.com/joshbuchea/HEAD)
 - [`solved-by-flexbox`](https://github.com/philipwalton/solved-by-flexbox)
+- [`android-ecosystem-cheat-sheet`](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
 
 ---
