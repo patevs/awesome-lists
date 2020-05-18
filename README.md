@@ -18,6 +18,7 @@
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
 - [`awesome-pentest`](https://github.com/enaqx/awesome-pentest)
 - [`awesome-piracy`](https://github.com/Igglybuff/awesome-piracy)
+- [`awesome-powershell`](https://github.com/janikvonrotz/awesome-powershell)
 - [`awesome-react`](https://github.com/enaqx/awesome-react)
 - [`awesome-react-native`](https://github.com/jondot/awesome-react-native)
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
