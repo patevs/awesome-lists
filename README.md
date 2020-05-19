@@ -17,6 +17,7 @@
 - [`awesome-devenv`](https://github.com/jondot/awesome-devenv)
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
 - [`Awesome-Hacking`](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [`awesome-investing`](https://github.com/mr-karan/awesome-investing)
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
 - [`awesome-npm`](https://github.com/sindresorhus/awesome-npm)
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
