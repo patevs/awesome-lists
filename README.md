@@ -4,6 +4,11 @@
 
 ---
 
+- [`awesome-lists`](https://github.com/sindresorhus/awesome)
+- [`lists`](https://github.com/jnv/lists)
+
+[](.)
+
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
 - [`awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
@@ -12,7 +17,6 @@
 - [`awesome-devenv`](https://github.com/jondot/awesome-devenv)
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
 - [`Awesome-Hacking`](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [`awesome-lists`](https://github.com/sindresorhus/awesome)
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
 - [`awesome-npm`](https://github.com/sindresorhus/awesome-npm)
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
@@ -39,7 +43,6 @@
 - [`developer-roadmap`](https://github.com/kamranahmedse/developer-roadmap)
 - [`build-your-own-x`](https://github.com/danistefanovic/build-your-own-x)
 - [`javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms)
-- [`lists`](https://github.com/jnv/lists)
 - [`public-apis`](https://github.com/public-apis/public-apis)
 - [`cosmos`](https://github.com/OpenGenus/cosmos)
 - [`free-programming-books`](https://github.com/EbookFoundation/free-programming-books)
