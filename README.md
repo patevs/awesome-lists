@@ -52,5 +52,6 @@
 - [`HEAD`](https://github.com/joshbuchea/HEAD)
 - [`solved-by-flexbox`](https://github.com/philipwalton/solved-by-flexbox)
 - [`android-ecosystem-cheat-sheet`](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
+- [`PowerShellPracticeAndStyle`](https://github.com/PoshCode/PowerShellPracticeAndStyle)
 
 ---
