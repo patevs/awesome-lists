@@ -29,6 +29,7 @@
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
+- [`awesome-web-security`](https://github.com/qazbnm456/awesome-web-security)
 - [`awesome-windows`](https://github.com/Awesome-Windows/Awesome)
 - [`awesome-wsl`](https://github.com/sirredbeard/Awesome-WSL)
 
