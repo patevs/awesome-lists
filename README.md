@@ -58,6 +58,7 @@
 - [`solved-by-flexbox`](https://github.com/philipwalton/solved-by-flexbox)
 - [`android-ecosystem-cheat-sheet`](https://github.com/igorwojda/android-ecosystem-cheat-sheet)
 - [`PowerShellPracticeAndStyle`](https://github.com/PoshCode/PowerShellPracticeAndStyle)
-- [`SecLists`](https://github.com/danielmiessler/SecLists) Collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [`SecLists`](https://github.com/danielmiessler/SecLists) Collection of multiple types of lists used during security assessments.
+- [`react-typescript-cheatsheet`](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript.
 
 ---
