@@ -9,6 +9,7 @@
 
 [](.)
 
+- [`awesome-adb`](https://github.com/mzlogin/awesome-adb)
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
 - [`awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
