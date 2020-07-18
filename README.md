@@ -61,6 +61,7 @@
 ## React Native
 
 - [`awesome-react-native`](https://github.com/jondot/awesome-react-native)
+- [`awesome-react-native-native-modules`](https://github.com/prscX/awesome-react-native-native-modules) A curated list of Awesome ReactNative: Native Modules.
 
 ---
 
