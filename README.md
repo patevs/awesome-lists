@@ -4,29 +4,66 @@
 
 ---
 
-- [`awesome-lists`](https://github.com/sindresorhus/awesome)
-- [`lists`](https://github.com/jnv/lists)
+- [`awesome`](https://github.com/sindresorhus/awesome) Awesome lists about all kinds of interesting topics.
+- [`lists`](https://github.com/jnv/lists) The definitive list of lists (of lists) curated on GitHub and elsewhere.
 
-[](.)
+---
 
-- [`awesome-adb`](https://github.com/mzlogin/awesome-adb)
+## Android
+
+- [`awesome-adb`](https://github.com/mzlogin/awesome-adb) ADB Usage Complete.
+
+---
+
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
+
+---
+
+## Command Line
+
 - [`awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
 - [`awesome-console-services`](https://github.com/chubin/awesome-console-services)
+
+---
+
 - [`Awesome-Design-Tools`](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [`awesome-devenv`](https://github.com/jondot/awesome-devenv)
+
+## Git
+
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
+
+---
+
 - [`Awesome-Hacking`](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [`awesome-investing`](https://github.com/mr-karan/awesome-investing)
+
+## NodeJS & NPM
+
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
 - [`awesome-npm`](https://github.com/sindresorhus/awesome-npm)
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
+
+---
+
 - [`awesome-pentest`](https://github.com/enaqx/awesome-pentest)
 - [`awesome-piracy`](https://github.com/Igglybuff/awesome-piracy)
+
+## PowerShell
+
 - [`awesome-powershell`](https://github.com/janikvonrotz/awesome-powershell)
+
+## React
+
 - [`awesome-react`](https://github.com/enaqx/awesome-react)
+
+## React Native
+
 - [`awesome-react-native`](https://github.com/jondot/awesome-react-native)
+
+---
+
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
@@ -34,7 +71,7 @@
 - [`awesome-windows`](https://github.com/Awesome-Windows/Awesome)
 - [`awesome-wsl`](https://github.com/sirredbeard/Awesome-WSL)
 
-[](.)
+---
 
 - [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
 - [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
