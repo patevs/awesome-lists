@@ -54,6 +54,12 @@
 
 - [`awesome-powershell`](https://github.com/janikvonrotz/awesome-powershell)
 
+---
+
+- [`Awesome-Profile-README-templates`](https://github.com/kautukkundan/Awesome-Profile-README-templates) A collection of awesome readme templates to display on your profile.
+
+---
+
 ## React
 
 - [`awesome-react`](https://github.com/enaqx/awesome-react)
@@ -62,6 +68,7 @@
 
 - [`awesome-react-native`](https://github.com/jondot/awesome-react-native)
 - [`awesome-react-native-native-modules`](https://github.com/prscX/awesome-react-native-native-modules) A curated list of Awesome ReactNative: Native Modules.
+- [`awesome-reactnative-ui`](https://github.com/madhavanmalolan/awesome-reactnative-ui) Awesome React Native UI components.
 
 ---
 
