@@ -72,6 +72,17 @@
 
 ---
 
+## Ruby
+
+- [`awesome-ruby`](https://github.com/markets/awesome-ruby)
+- [`awesome-ruby`](https://github.com/sdogruyol/awesome-ruby)
+
+---
+
+## Ruby on Rails
+
+---
+
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
