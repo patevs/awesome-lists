@@ -76,6 +76,7 @@
 
 - [`awesome-ruby`](https://github.com/markets/awesome-ruby)
 - [`awesome-ruby`](https://github.com/sdogruyol/awesome-ruby)
+- [`ruby-bookmarks`](https://github.com/dreikanter/ruby-bookmarks) Curated collection of essential Ruby and Ruby on Rails resources.
 
 ---
 
