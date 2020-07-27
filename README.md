@@ -83,6 +83,7 @@
 ## Ruby on Rails
 
 - [`awesome-rails`](https://github.com/gramantin/awesome-rails) Awesome things related to Ruby on Rails.
+- [`awesome-rails-gems`](https://github.com/hothero/awesome-rails-gem) Awesome Ruby Gems for Rails development.
 
 ---
 
