@@ -74,13 +74,15 @@
 
 ## Ruby
 
-- [`awesome-ruby`](https://github.com/markets/awesome-ruby) Awesome Ruby libraries, tools, frameworks and software
+- [`awesome-ruby`](https://github.com/markets/awesome-ruby) Awesome Ruby libraries, tools, frameworks and software.
 - [`awesome-ruby`](https://github.com/sdogruyol/awesome-ruby) Awesome Ruby frameworks, libraries and resources.
 - [`ruby-bookmarks`](https://github.com/dreikanter/ruby-bookmarks) Curated collection of essential Ruby and Ruby on Rails resources.
 
 ---
 
 ## Ruby on Rails
+
+- [`awesome-rails`](https://github.com/gramantin/awesome-rails) Awesome things related to Ruby on Rails.
 
 ---
 
