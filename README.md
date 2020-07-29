@@ -38,6 +38,7 @@
 
 - [`Awesome-Hacking`](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [`awesome-investing`](https://github.com/mr-karan/awesome-investing)
+- [`awesome-linux`](https://github.com/aleksandar-todorovic/awesome-linux) Awesome projects and resources that make Linux even more awesome.
 
 ## NodeJS & NPM
 
