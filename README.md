@@ -57,6 +57,7 @@
 
 ---
 
+- [`awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) A collection of awesome dynamic pinned gists for GitHub.
 - [`Awesome-Profile-README-templates`](https://github.com/kautukkundan/Awesome-Profile-README-templates) A collection of awesome readme templates to display on your profile.
 
 ---
