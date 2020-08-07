@@ -124,5 +124,6 @@
 - [`SecLists`](https://github.com/danielmiessler/SecLists) Collection of multiple types of lists used during security assessments.
 - [`react-typescript-cheatsheet`](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript.
 - [`emoji-cheat-sheet`](https://github.com/ikatyang/emoji-cheat-sheet) A markdown version emoji cheat sheet
+- [`Powershell-Scripts`](https://github.com/stank58/Powershell-Scripts) Helpful list of powershell scripts I have found/created.
 
 ---
