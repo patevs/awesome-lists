@@ -57,7 +57,7 @@
 
 ---
 
-- [`awesome-github-profile-readme`](https://github.com/abhisheknaiidu/awesome-github-profile-readme) A curated list of awesome Github Profile READMEs
+- [`awesome-github-profile-readme`](https://github.com/abhisheknaiidu/awesome-github-profile-readme) A curated list of awesome Github Profile READMEs.
 - [`awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) A collection of awesome dynamic pinned gists for GitHub.
 - [`Awesome-Profile-README-templates`](https://github.com/kautukkundan/Awesome-Profile-README-templates) A collection of awesome readme templates to display on your profile.
 
@@ -92,6 +92,7 @@
 
 - [`awesome-seo`](https://github.com/teles/awesome-seo)
 - [`awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
+- [`awesome-terminal-commands`](https://github.com/ankurparihar/Awesome-Terminal-Commands) An awesome resource listing and explaining various commonly used *nix commands.
 - [`awesome-unity`](https://github.com/RyanNielson/awesome-unity)
 - [`awesome-web-security`](https://github.com/qazbnm456/awesome-web-security)
 - [`awesome-windows`](https://github.com/Awesome-Windows/Awesome)
