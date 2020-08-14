@@ -98,6 +98,7 @@
 
 ---
 
+- [`app-ideas`](https://github.com/florinpop17/app-ideas) A Collection of application ideas which can be used to improve your coding skills.
 - [`the-art-of-the-command-line`](https://github.com/jlevy/the-art-of-command-line)
 - [`search-engine-optimization`](https://github.com/marcobiedermann/search-engine-optimization)
 - [`javascript-development-environment`](https://github.com/coryhouse/javascript-development-environment)
