@@ -1,6 +1,6 @@
 {
   "name": "awesome-lists",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "description": "Awesome Lists and Resources",
   "author": "PatEvs",
   "license": "MIT",
@@ -19,7 +19,9 @@
     "np": "^6.4.0"
   },
   "commitlint": {
-    "extends": ["./node_modules/commitlint-config-gitmoji"]
+    "extends": [
+      "./node_modules/commitlint-config-gitmoji"
+    ]
   },
   "husky": {
     "hooks": {
