@@ -40,6 +40,14 @@
 - [`awesome-investing`](https://github.com/mr-karan/awesome-investing)
 - [`awesome-linux`](https://github.com/aleksandar-todorovic/awesome-linux) Awesome projects and resources that make Linux even more awesome.
 
+---
+
+## Music
+
+- [`awesome-music`](https://github.com/ciconia/awesome-music) Awesome Music Projects.
+
+---
+
 ## NodeJS & NPM
 
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
