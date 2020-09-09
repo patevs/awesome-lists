@@ -15,6 +15,13 @@
 
 ---
 
+## Azure
+
+- [`awesome-azure`](https://github.com/kristofferandreasen/awesome-azure)
+- [`awesome-azure-learning`](https://github.com/ddneves/awesome-azure-learning)
+
+---
+
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
 
 ---
