@@ -81,6 +81,7 @@
 ## React
 
 - [`awesome-react`](https://github.com/enaqx/awesome-react)
+- [`react-demos`](https://github.com/ruanyf/react-demos) A collection of simple demos of React.js
 
 ## React Native
 
