@@ -55,6 +55,12 @@
 
 ---
 
+## Neovim
+
+- [`awesome-neovim`](https://github.com/rockerBOO/awesome-neovim) Awesome neovim plugins.
+
+---
+
 ## NodeJS & NPM
 
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
