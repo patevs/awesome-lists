@@ -50,6 +50,12 @@
 
 ---
 
+## Kubernetes
+
+- [`awesome-kubernetes`](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources.
+
+---
+
 ## Music
 
 - [`awesome-music`](https://github.com/ciconia/awesome-music) Awesome Music Projects.
