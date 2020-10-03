@@ -22,6 +22,7 @@
 
 ---
 
+- [`awesome-cheatsheets`](https://github.com/LeCoupa/awesome-cheatsheets) Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
 
 ---
