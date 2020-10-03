@@ -88,6 +88,7 @@
 ## React
 
 - [`awesome-react`](https://github.com/enaqx/awesome-react)
+- [`awesome-react-patterns`](https://github.com/kentcdodds/advanced-react-patterns) Learn how to build simple and flexible React Components and Hooks using modern patterns.
 - [`react-demos`](https://github.com/ruanyf/react-demos) A collection of simple demos of React.js
 
 ## React Native
