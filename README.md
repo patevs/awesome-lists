@@ -50,6 +50,12 @@
 
 ---
 
+## JavaScript
+
+- [`javascript`](https://github.com/TheAlgorithms/Javascript) All algorithms implemented in Javascript (for educational purposes only).
+
+---
+
 ## Kubernetes
 
 - [`awesome-kubernetes`](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources.
