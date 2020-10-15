@@ -79,6 +79,7 @@
 - [`awesome-micro-npm-packages`](https://github.com/parro-it/awesome-micro-npm-packages)
 - [`awesome-npm`](https://github.com/sindresorhus/awesome-npm)
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
+- [`nodejs-cli-apps-best-practices`](https://github.com/lirantal/nodejs-cli-apps-best-practices) Curated best practices on how to build successful, empathic and user-friendly Node.js CLI applications.
 
 ---
 
