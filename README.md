@@ -61,6 +61,7 @@
 ## JavaScript
 
 - [`javascript`](https://github.com/TheAlgorithms/Javascript) All algorithms implemented in Javascript (for educational purposes only).
+- [`javascript-algorithms`](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ---
 
