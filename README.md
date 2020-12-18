@@ -40,6 +40,12 @@
 
 ---
 
+## DevOps
+
+- [`devops-resources`](https://github.com/bregman-arie/devops-resources)
+
+---
+
 ## Docker
 
 - [`awesome-docker`](https://github.com/veggiemonk/awesome-docker) A curated list of Docker resources and projects.
