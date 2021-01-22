@@ -22,6 +22,12 @@
 
 ---
 
+## Bash
+
+- [`awesome-bash`](https://github.com/awesome-lists/awesome-bash) A curated list of delightful Bash scripts and resources.
+
+---
+
 - [`awesome-cheatsheets`](https://github.com/LeCoupa/awesome-cheatsheets) Awesome cheatsheets for popular programming languages, frameworks and development tools.
 - [`awesome-checker-services`](https://github.com/Brunty/awesome-checker-services)
 
