@@ -1,6 +1,6 @@
 {
   "name": "awesome-lists",
-  "version": "1.13.1",
+  "version": "1.14.0",
   "description": "Awesome Lists and Resources",
   "author": "PatEvs",
   "license": "MIT",
@@ -22,8 +22,14 @@
       "gitmoji"
     ],
     "rules": {
-      "type-empty": [0, "never"],
-      "subject-empty": [0, "never"]
+      "type-empty": [
+        0,
+        "never"
+      ],
+      "subject-empty": [
+        0,
+        "never"
+      ]
     }
   },
   "husky": {
