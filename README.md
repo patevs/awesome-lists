@@ -83,6 +83,10 @@
 
 ---
 
+- [`market-toolkit`](https://github.com/ckz8780/market-toolkit) A collection of stock market resources and tools.
+
+---
+
 ## Music
 
 - [`awesome-music`](https://github.com/ciconia/awesome-music) Awesome Music Projects.
