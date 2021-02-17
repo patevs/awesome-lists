@@ -70,6 +70,13 @@
 
 ---
 
+## Java
+
+- [`awesome-java`](https://github.com/akullpp/awesome-java) Awesome frameworks, libraries and software for the Java programming language.
+
+---
+
+
 ## JavaScript
 
 - [`javascript`](https://github.com/TheAlgorithms/Javascript) All algorithms implemented in Javascript (for educational purposes only).
