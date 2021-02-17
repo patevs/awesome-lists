@@ -73,6 +73,7 @@
 ## Java
 
 - [`awesome-java`](https://github.com/akullpp/awesome-java) Awesome frameworks, libraries and software for the Java programming language.
+- [`Java`](https://github.com/TheAlgorithms/Java) All Algorithms implemented in Java.
 
 ---
 
