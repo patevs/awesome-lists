@@ -58,6 +58,12 @@
 
 ---
 
+## Fonts
+
+- [`dev-fonts`](https://github.com/Gaafar/dev-fonts) List of the best fonts for coding.
+
+---
+
 ## Git
 
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
