@@ -61,6 +61,7 @@
 ## Git
 
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
+- [`awesome-git-addons`](https://github.com/patevs/awesome-git-addons) 😎 A curated list of add-ons that extend/enhance the git CLI.
 
 ---
 
