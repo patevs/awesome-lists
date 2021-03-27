@@ -38,6 +38,7 @@
 - [`awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
 - [`awesome-console-services`](https://github.com/chubin/awesome-console-services)
+- [`You-Dont-Need-GUI`](https://github.com/you-dont-need/You-Dont-Need-GUI) Stop relying on GUI; CLI **ROCKS**
 
 ---
 
