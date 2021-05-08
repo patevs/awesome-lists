@@ -69,6 +69,7 @@
 
 - [`awesome-git`](https://github.com/dictcp/awesome-git)
 - [`awesome-git-addons`](https://github.com/stevemao/awesome-git-addons) 😎 A curated list of add-ons that extend/enhance the git CLI.
+- [`tips`](https://github.com/git-tips/tips) Most commonly used git tips and tricks.
 
 ---
 
