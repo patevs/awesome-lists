@@ -219,5 +219,6 @@
 - [`emoji-cheat-sheet`](https://github.com/ikatyang/emoji-cheat-sheet) A markdown version emoji cheat sheet
 - [`Powershell-Scripts`](https://github.com/stank58/Powershell-Scripts) Helpful list of powershell scripts I have found/created.
 - [`degoogle`](https://github.com/tycrek/degoogle) List of alternatives to Google products. Privacy tips, tricks, and links.
+- [`modern-unix`](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands.
 
 ---
