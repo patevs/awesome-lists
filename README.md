@@ -47,6 +47,12 @@
 
 ---
 
+## Dart
+
+- [`awesome-dart`](https://github.com/yissachar/awesome-dart) Curated list of awesome Dart frameworks, libraries, and software.
+
+---
+
 ## DevOps
 
 - [`devops-resources`](https://github.com/bregman-arie/devops-resources)
