@@ -131,6 +131,7 @@
 - [`awesome-npm`](https://github.com/sindresorhus/awesome-npm)
 - [`awesome-npm-scripts`](https://github.com/RyanZim/awesome-npm-scripts)
 - [`nodejs-cli-apps-best-practices`](https://github.com/lirantal/nodejs-cli-apps-best-practices) Curated best practices on how to build successful, empathic and user-friendly Node.js CLI applications.
+- [`nodejs-integration-tests-best-practices`](https://github.com/testjavascript/nodejs-integration-tests-best-practices) ✅ Master the art of the most powerful testing technique for Node.js: Component tests.
 
 ---
 
