@@ -19,6 +19,9 @@
     "husky": "^8.0.1",
     "np": "^7.6.2"
   },
+  "resolutions": {
+    "got": "^11.8.5"
+  },
   "commitlint": {
     "extends": [
       "gitmoji"
