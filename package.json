@@ -18,9 +18,6 @@
     "commitlint-config-gitmoji": "^2.2.5",
     "husky": "^8.0.1"
   },
-  "resolutions": {
-    "got": "^11.8.5"
-  },
   "commitlint": {
     "extends": [
       "gitmoji"
