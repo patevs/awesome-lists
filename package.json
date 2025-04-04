@@ -11,7 +11,7 @@
   "scripts": {
     "prepare": "husky",
     "updates": "npx ncu",
-    "release": "npx np"
+    "release": "npx np --no-publish --no-tests"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
